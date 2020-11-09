@@ -7,10 +7,10 @@ However Creating An Original Piece Of Music Is No Child's Play.
 So I Create Ultimate-Piano-A Simple Dynamic Python Module For Beginner Piano Learners.
 
 ### Features Include
-1.Play In Any Of The Inbuilt Scales And If You're Feeling Too Motivated Create Your Own New Scale.
-2.Can Be Used To Generate More Than 300 Scales.
-3.Learn Chord Triads Of Each Scale.
-4.Learn Corresponding Musical Notation.
+1. Play In Any Of The Inbuilt Scales And If You're Feeling Too Motivated Create Your Own New Scale.
+2. Can Be Used To Generate More Than 300 Scales.
+3. Learn Chord Triads Of Each Scale.
+4. Learn Corresponding Musical Notation.
 
 [Jazz Scale Reference Video](https://www.youtube.com/watch?v=TBnsq5a0kbs)
 
