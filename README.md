@@ -12,7 +12,7 @@ So I Create Ultimate-Piano-A Simple Dynamic Python Module For Beginner Piano Lea
 3. Learn Chord Triads Of Each Scale.
 4. Learn Corresponding Musical Notation.
 
-### Installing Depemdencies
+### Installing Dependencies(pygame,pillow)
 1. Open cmd.
 2. cd To Root Directory Where ultimate_piano.py and requirements.txt is located.
 3. Run Command►pip install -r requirements.txt
