@@ -17,10 +17,7 @@ So I Create Ultimate-Piano-A Simple Dynamic Python Module For Beginner Piano Lea
 2. cd To Root Directory Where ultimate_piano.py and requirements.txt is located.
 3. Run Command►pip install -r requirements.txt
 
-[Jazz Scale Reference Video](https://www.youtube.com/watch?v=TBnsq5a0kbs)
 
-[Memories Maroon 5 Piano Chords Video](https://www.youtube.com/watch?v=tQGz43b4avc)
-
-
-
+<a href="https://www.youtube.com/watch?v=TBnsq5a0kbs" target="_blank">Jazz Scale Reference Video</a>
+<a href="https://www.youtube.com/watch?v=tQGz43b4avc" target="_blank">Memories Maroon 5 Piano Chords Video</a>
 
